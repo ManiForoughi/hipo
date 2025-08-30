@@ -1,0 +1,1765 @@
+{
+  "conferences": [
+    {
+      "name": "ACC",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 90,
+      "isPower5": true,
+      "teams": [
+        {
+          "name": "Boston College Eagles",
+          "primary": "152,0,46",
+          "secondary": "188,155,106",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Boston College",
+          "mascot": "Eagles"
+        },
+        {
+          "name": "California Golden Bears",
+          "primary": "0,50,98",
+          "secondary": "253,181,21",
+          "tertiary": "59,126,161",
+          "prestige": 68,
+          "city": "California",
+          "mascot": "Golden Bears"
+        },
+        {
+          "name": "Clemson Tigers",
+          "primary": "245,102,0",
+          "secondary": "82,45,128",
+          "tertiary": "255,255,255",
+          "prestige": 90,
+          "city": "Clemson",
+          "mascot": "Tigers"
+        },
+        {
+          "name": "Duke Blue Devils",
+          "primary": "0,26,87",
+          "secondary": "255,255,255",
+          "tertiary": "0,51,102",
+          "prestige": 72,
+          "city": "Duke",
+          "mascot": "Blue Devils"
+        },
+        {
+          "name": "Florida State Seminoles",
+          "primary": "120,47,64",
+          "secondary": "206,184,136",
+          "tertiary": "255,255,255",
+          "prestige": 92,
+          "city": "Florida State",
+          "mascot": "Seminoles"
+        },
+        {
+          "name": "Georgia Tech Yellow Jackets",
+          "primary": "179,163,105",
+          "secondary": "0,48,87",
+          "tertiary": "162,141,91",
+          "prestige": 70,
+          "city": "Georgia Tech",
+          "mascot": "Yellow Jackets"
+        },
+        {
+          "name": "Louisville Cardinals",
+          "primary": "173,0,0",
+          "secondary": "0,0,0",
+          "tertiary": "253,185,19",
+          "prestige": 75,
+          "city": "Louisville",
+          "mascot": "Cardinals"
+        },
+        {
+          "name": "Miami Hurricanes",
+          "primary": "0,80,48",
+          "secondary": "244,115,33",
+          "tertiary": "255,255,255",
+          "prestige": 80,
+          "city": "Miami",
+          "mascot": "Hurricanes"
+        },
+        {
+          "name": "NC State Wolfpack",
+          "primary": "204,0,0",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "NC State",
+          "mascot": "Wolfpack"
+        },
+        {
+          "name": "North Carolina Tar Heels",
+          "primary": "123,175,212",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 78,
+          "city": "North Carolina",
+          "mascot": "Tar Heels"
+        },
+        {
+          "name": "Pittsburgh Panthers",
+          "primary": "0,53,148",
+          "secondary": "255,184,28",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "Pittsburgh",
+          "mascot": "Panthers"
+        },
+        {
+          "name": "SMU Mustangs",
+          "primary": "224,26,62",
+          "secondary": "0,93,170",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "SMU",
+          "mascot": "Mustangs"
+        },
+        {
+          "name": "Stanford Cardinal",
+          "primary": "140,21,21",
+          "secondary": "0,0,0",
+          "tertiary": "181,153,80",
+          "prestige": 68,
+          "city": "Stanford",
+          "mascot": "Cardinal"
+        },
+        {
+          "name": "Syracuse Orange",
+          "primary": "212,69,0",
+          "secondary": "13,39,77",
+          "tertiary": "255,255,255",
+          "prestige": 65,
+          "city": "Syracuse",
+          "mascot": "Orange"
+        },
+        {
+          "name": "Virginia Cavaliers",
+          "primary": "35,45,75",
+          "secondary": "248,76,30",
+          "tertiary": "255,255,255",
+          "prestige": 65,
+          "city": "Virginia",
+          "mascot": "Cavaliers"
+        },
+        {
+          "name": "Virginia Tech Hokies",
+          "primary": "134,31,65",
+          "secondary": "229,117,0",
+          "tertiary": "0,0,0",
+          "prestige": 74,
+          "city": "Virginia Tech",
+          "mascot": "Hokies"
+        },
+        {
+          "name": "Wake Forest Demon Deacons",
+          "primary": "158,126,56",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Wake Forest",
+          "mascot": "Demon Deacons"
+        }
+      ]
+    },
+    {
+      "name": "Big Ten",
+      "requiredConferenceGames": 9,
+      "conferencePrestige": 94,
+      "isPower5": true,
+      "teams": [
+        {
+          "name": "Illinois Fighting Illini",
+          "primary": "19,41,75",
+          "secondary": "232,74,39",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Illinois",
+          "mascot": "Fighting Illini"
+        },
+        {
+          "name": "Indiana Hoosiers",
+          "primary": "153,0,0",
+          "secondary": "238,237,235",
+          "tertiary": "0,0,0",
+          "prestige": 65,
+          "city": "Indiana",
+          "mascot": "Hoosiers"
+        },
+        {
+          "name": "Iowa Hawkeyes",
+          "primary": "255,205,0",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 80,
+          "city": "Iowa",
+          "mascot": "Hawkeyes"
+        },
+        {
+          "name": "Maryland Terrapins",
+          "primary": "224,58,62",
+          "secondary": "255,195,28",
+          "tertiary": "0,0,0",
+          "prestige": 70,
+          "city": "Maryland",
+          "mascot": "Terrapins"
+        },
+        {
+          "name": "Michigan Wolverines",
+          "primary": "0,39,76",
+          "secondary": "255,203,5",
+          "tertiary": "255,255,255",
+          "prestige": 93,
+          "city": "Michigan",
+          "mascot": "Wolverines"
+        },
+        {
+          "name": "Michigan State Spartans",
+          "primary": "24,69,59",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 75,
+          "city": "Michigan State",
+          "mascot": "Spartans"
+        },
+        {
+          "name": "Minnesota Golden Gophers",
+          "primary": "122,0,25",
+          "secondary": "255,204,51",
+          "tertiary": "0,0,0",
+          "prestige": 70,
+          "city": "Minnesota",
+          "mascot": "Golden Gophers"
+        },
+        {
+          "name": "Nebraska Cornhuskers",
+          "primary": "228,28,56",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 74,
+          "city": "Nebraska",
+          "mascot": "Cornhuskers"
+        },
+        {
+          "name": "Northwestern Wildcats",
+          "primary": "78,42,132",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 65,
+          "city": "Northwestern",
+          "mascot": "Wildcats"
+        },
+        {
+          "name": "Ohio State Buckeyes",
+          "primary": "187,0,0",
+          "secondary": "102,102,102",
+          "tertiary": "255,255,255",
+          "prestige": 95,
+          "city": "Ohio State",
+          "mascot": "Buckeyes"
+        },
+        {
+          "name": "Oregon Ducks",
+          "primary": "21,71,51",
+          "secondary": "254,225,35",
+          "tertiary": "165,172,175",
+          "prestige": 88,
+          "city": "Oregon",
+          "mascot": "Ducks"
+        },
+        {
+          "name": "Penn State Nittany Lions",
+          "primary": "0,45,98",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 90,
+          "city": "Penn State",
+          "mascot": "Nittany Lions"
+        },
+        {
+          "name": "Purdue Boilermakers",
+          "primary": "206,184,136",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 72,
+          "city": "Purdue",
+          "mascot": "Boilermakers"
+        },
+        {
+          "name": "Rutgers Scarlet Knights",
+          "primary": "204,0,51",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 65,
+          "city": "Rutgers",
+          "mascot": "Scarlet Knights"
+        },
+        {
+          "name": "UCLA Bruins",
+          "primary": "0,115,207",
+          "secondary": "255,199,44",
+          "tertiary": "255,255,255",
+          "prestige": 78,
+          "city": "UCLA",
+          "mascot": "Bruins"
+        },
+        {
+          "name": "USC Trojans",
+          "primary": "153,0,0",
+          "secondary": "255,199,44",
+          "tertiary": "0,0,0",
+          "prestige": 85,
+          "city": "USC",
+          "mascot": "Trojans"
+        },
+        {
+          "name": "Washington Huskies",
+          "primary": "75,46,131",
+          "secondary": "232,211,162",
+          "tertiary": "0,0,0",
+          "prestige": 85,
+          "city": "Washington",
+          "mascot": "Huskies"
+        },
+        {
+          "name": "Wisconsin Badgers",
+          "primary": "197,5,12",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 82,
+          "city": "Wisconsin",
+          "mascot": "Badgers"
+        }
+      ]
+    },
+    {
+      "name": "Big 12",
+      "requiredConferenceGames": 9,
+      "conferencePrestige": 88,
+      "isPower5": true,
+      "teams": [
+        {
+          "name": "Arizona Wildcats",
+          "primary": "204,0,51",
+          "secondary": "0,51,102",
+          "tertiary": "255,255,255",
+          "prestige": 72,
+          "city": "Arizona",
+          "mascot": "Wildcats"
+        },
+        {
+          "name": "Arizona State Sun Devils",
+          "primary": "140,29,64",
+          "secondary": "255,198,39",
+          "tertiary": "0,0,0",
+          "prestige": 70,
+          "city": "Arizona State",
+          "mascot": "Sun Devils"
+        },
+        {
+          "name": "BYU Cougars",
+          "primary": "0,34,85",
+          "secondary": "165,166,167",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "BYU",
+          "mascot": "Cougars"
+        },
+        {
+          "name": "Baylor Bears",
+          "primary": "0,48,21",
+          "secondary": "254,203,0",
+          "tertiary": "0,0,0",
+          "prestige": 78,
+          "city": "Baylor",
+          "mascot": "Bears"
+        },
+        {
+          "name": "Cincinnati Bearcats",
+          "primary": "224,1,34",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Cincinnati",
+          "mascot": "Bearcats"
+        },
+        {
+          "name": "Colorado Buffaloes",
+          "primary": "207,184,124",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "Colorado",
+          "mascot": "Buffaloes"
+        },
+        {
+          "name": "Houston Cougars",
+          "primary": "200,16,46",
+          "secondary": "118,35,47",
+          "tertiary": "178,180,178",
+          "prestige": 70,
+          "city": "Houston",
+          "mascot": "Cougars"
+        },
+        {
+          "name": "Iowa State Cyclones",
+          "primary": "200,16,46",
+          "secondary": "241,190,72",
+          "tertiary": "0,0,0",
+          "prestige": 78,
+          "city": "Iowa State",
+          "mascot": "Cyclones"
+        },
+        {
+          "name": "Kansas Jayhawks",
+          "primary": "0,81,186",
+          "secondary": "232,0,13",
+          "tertiary": "255,200,45",
+          "prestige": 65,
+          "city": "Kansas",
+          "mascot": "Jayhawks"
+        },
+        {
+          "name": "Kansas State Wildcats",
+          "primary": "81,40,136",
+          "secondary": "209,209,209",
+          "tertiary": "255,255,255",
+          "prestige": 80,
+          "city": "Kansas State",
+          "mascot": "Wildcats"
+        },
+        {
+          "name": "Oklahoma State Cowboys",
+          "primary": "255,115,0",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 82,
+          "city": "Oklahoma State",
+          "mascot": "Cowboys"
+        },
+        {
+          "name": "TCU Horned Frogs",
+          "primary": "77,25,121",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 82,
+          "city": "TCU",
+          "mascot": "Horned Frogs"
+        },
+        {
+          "name": "Texas Tech Red Raiders",
+          "primary": "204,0,0",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "Texas Tech",
+          "mascot": "Red Raiders"
+        },
+        {
+          "name": "UCF Knights",
+          "primary": "186,155,55",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "UCF",
+          "mascot": "Knights"
+        },
+        {
+          "name": "Utah Utes",
+          "primary": "214,0,28",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 85,
+          "city": "Utah",
+          "mascot": "Utes"
+        },
+        {
+          "name": "West Virginia Mountaineers",
+          "primary": "0,40,85",
+          "secondary": "234,170,0",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "West Virginia",
+          "mascot": "Mountaineers"
+        }
+      ]
+    },
+    {
+      "name": "SEC",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 95,
+      "isPower5": true,
+      "teams": [
+        {
+          "name": "Alabama Crimson Tide",
+          "primary": "158,27,50",
+          "secondary": "130,138,143",
+          "tertiary": "255,255,255",
+          "prestige": 95,
+          "city": "Alabama",
+          "mascot": "Crimson Tide"
+        },
+        {
+          "name": "Arkansas Razorbacks",
+          "primary": "157,34,53",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 75,
+          "city": "Arkansas",
+          "mascot": "Razorbacks"
+        },
+        {
+          "name": "Auburn Tigers",
+          "primary": "12,35,64",
+          "secondary": "232,119,34",
+          "tertiary": "0,0,0",
+          "prestige": 78,
+          "city": "Auburn",
+          "mascot": "Tigers"
+        },
+        {
+          "name": "Florida Gators",
+          "primary": "0,33,165",
+          "secondary": "250,70,22",
+          "tertiary": "255,255,255",
+          "prestige": 80,
+          "city": "Florida",
+          "mascot": "Gators"
+        },
+        {
+          "name": "Georgia Bulldogs",
+          "primary": "186,12,47",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 94,
+          "city": "Georgia",
+          "mascot": "Bulldogs"
+        },
+        {
+          "name": "Kentucky Wildcats",
+          "primary": "0,51,160",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 70,
+          "city": "Kentucky",
+          "mascot": "Wildcats"
+        },
+        {
+          "name": "LSU Tigers",
+          "primary": "70,29,124",
+          "secondary": "253,208,35",
+          "tertiary": "0,0,0",
+          "prestige": 92,
+          "city": "LSU",
+          "mascot": "Tigers"
+        },
+        {
+          "name": "Mississippi State Bulldogs",
+          "primary": "102,0,0",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 70,
+          "city": "Mississippi State",
+          "mascot": "Bulldogs"
+        },
+        {
+          "name": "Missouri Tigers",
+          "primary": "255,182,18",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 72,
+          "city": "Missouri",
+          "mascot": "Tigers"
+        },
+        {
+          "name": "Oklahoma Sooners",
+          "primary": "132,22,23",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 90,
+          "city": "Oklahoma",
+          "mascot": "Sooners"
+        },
+        {
+          "name": "Ole Miss Rebels",
+          "primary": "0,69,124",
+          "secondary": "178,0,43",
+          "tertiary": "255,255,255",
+          "prestige": 78,
+          "city": "Ole Miss",
+          "mascot": "Rebels"
+        },
+        {
+          "name": "South Carolina Gamecocks",
+          "primary": "115,0,10",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 72,
+          "city": "South Carolina",
+          "mascot": "Gamecocks"
+        },
+        {
+          "name": "Tennessee Volunteers",
+          "primary": "255,130,0",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 85,
+          "city": "Tennessee",
+          "mascot": "Volunteers"
+        },
+        {
+          "name": "Texas Longhorns",
+          "primary": "191,87,0",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 88,
+          "city": "Texas",
+          "mascot": "Longhorns"
+        },
+        {
+          "name": "Texas A&M Aggies",
+          "primary": "80,0,0",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 80,
+          "city": "Texas A&M",
+          "mascot": "Aggies"
+        },
+        {
+          "name": "Vanderbilt Commodores",
+          "primary": "185,151,91",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 65,
+          "city": "Vanderbilt",
+          "mascot": "Commodores"
+        }
+      ]
+    },
+    {
+      "name": "Pac-12",
+      "requiredConferenceGames": 9,
+      "conferencePrestige": 75,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Oregon State Beavers",
+          "primary": "220,68,5",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "Oregon State",
+          "mascot": "Beavers"
+        },
+        {
+          "name": "Washington State Cougars",
+          "primary": "152,30,50",
+          "secondary": "164,169,173",
+          "tertiary": "255,255,255",
+          "prestige": 72,
+          "city": "Washington State",
+          "mascot": "Cougars"
+        }
+      ]
+    },
+    {
+      "name": "American Athletic",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 75,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Army Black Knights",
+          "primary": "212,191,145",
+          "secondary": "0,0,0",
+          "tertiary": "178,180,179",
+          "prestige": 75,
+          "city": "Army",
+          "mascot": "Black Knights"
+        },
+        {
+          "name": "Charlotte 49ers",
+          "primary": "4,106,56",
+          "secondary": "185,151,91",
+          "tertiary": "39,37,31",
+          "prestige": 60,
+          "city": "Charlotte",
+          "mascot": "49ers"
+        },
+        {
+          "name": "East Carolina Pirates",
+          "primary": "89,42,138",
+          "secondary": "253,200,47",
+          "tertiary": "0,0,0",
+          "prestige": 60,
+          "city": "East Carolina",
+          "mascot": "Pirates"
+        },
+        {
+          "name": "Florida Atlantic Owls",
+          "primary": "0,51,102",
+          "secondary": "204,0,0",
+          "tertiary": "138,141,143",
+          "prestige": 65,
+          "city": "Florida Atlantic",
+          "mascot": "Owls"
+        },
+        {
+          "name": "Memphis Tigers",
+          "primary": "15,77,146",
+          "secondary": "165,166,179",
+          "tertiary": "255,255,255",
+          "prestige": 72,
+          "city": "Memphis",
+          "mascot": "Tigers"
+        },
+        {
+          "name": "Navy Midshipmen",
+          "primary": "0,32,91",
+          "secondary": "197,183,131",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Navy",
+          "mascot": "Midshipmen"
+        },
+        {
+          "name": "North Texas Mean Green",
+          "primary": "0,133,62",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 60,
+          "city": "North Texas",
+          "mascot": "Mean Green"
+        },
+        {
+          "name": "Rice Owls",
+          "primary": "0,58,112",
+          "secondary": "93,138,168",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Rice",
+          "mascot": "Owls"
+        },
+        {
+          "name": "South Florida Bulls",
+          "primary": "0,103,71",
+          "secondary": "207,196,147",
+          "tertiary": "255,255,255",
+          "prestige": 65,
+          "city": "South Florida",
+          "mascot": "Bulls"
+        },
+        {
+          "name": "Temple Owls",
+          "primary": "158,31,65",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "Temple",
+          "mascot": "Owls"
+        },
+        {
+          "name": "Tulane Green Wave",
+          "primary": "0,103,71",
+          "secondary": "0,128,128",
+          "tertiary": "0,33,71",
+          "prestige": 75,
+          "city": "Tulane",
+          "mascot": "Green Wave"
+        },
+        {
+          "name": "Tulsa Golden Hurricane",
+          "primary": "0,45,114",
+          "secondary": "225,184,13",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Tulsa",
+          "mascot": "Golden Hurricane"
+        },
+        {
+          "name": "UAB Blazers",
+          "primary": "0,122,62",
+          "secondary": "208,168,82",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "UAB",
+          "mascot": "Blazers"
+        },
+        {
+          "name": "UTSA Roadrunners",
+          "primary": "12,35,64",
+          "secondary": "241,90,41",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "UTSA",
+          "mascot": "Roadrunners"
+        }
+      ]
+    },
+    {
+      "name": "Conference USA",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 60,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Florida International Panthers",
+          "primary": "8,30,63",
+          "secondary": "182,134,44",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Florida International",
+          "mascot": "Panthers"
+        },
+        {
+          "name": "Jacksonville State Gamecocks",
+          "primary": "0,78,68",
+          "secondary": "137,138,141",
+          "tertiary": "0,0,0",
+          "prestige": 60,
+          "city": "Jacksonville State",
+          "mascot": "Gamecocks"
+        },
+        {
+          "name": "Kennesaw State Owls",
+          "primary": "253,187,48",
+          "secondary": "11,19,21",
+          "tertiary": "197,198,200",
+          "prestige": 55,
+          "city": "Kennesaw State",
+          "mascot": "Owls"
+        },
+        {
+          "name": "Liberty Flames",
+          "primary": "153,0,0",
+          "secondary": "10,37,78",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Liberty",
+          "mascot": "Flames"
+        },
+        {
+          "name": "Louisiana Tech Bulldogs",
+          "primary": "0,83,159",
+          "secondary": "227,25,55",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Louisiana Tech",
+          "mascot": "Bulldogs"
+        },
+        {
+          "name": "Middle Tennessee Blue Raiders",
+          "primary": "0,70,170",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "Middle Tennessee",
+          "mascot": "Blue Raiders"
+        },
+        {
+          "name": "New Mexico State Aggies",
+          "primary": "118,19,26",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "New Mexico State",
+          "mascot": "Aggies"
+        },
+        {
+          "name": "Sam Houston Bearkats",
+          "primary": "242,105,41",
+          "secondary": "23,54,91",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Sam Houston",
+          "mascot": "Bearkats"
+        },
+        {
+          "name": "UTEP Miners",
+          "primary": "4,30,66",
+          "secondary": "252,127,3",
+          "tertiary": "255,255,255",
+          "prestige": 50,
+          "city": "UTEP",
+          "mascot": "Miners"
+        },
+        {
+          "name": "Western Kentucky Hilltoppers",
+          "primary": "194,4,48",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 65,
+          "city": "Western Kentucky",
+          "mascot": "Hilltoppers"
+        }
+      ]
+    },
+    {
+      "name": "Mid-American",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 60,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Akron Zips",
+          "primary": "4,30,66",
+          "secondary": "168,153,104",
+          "tertiary": "255,255,255",
+          "prestige": 50,
+          "city": "Akron",
+          "mascot": "Zips"
+        },
+        {
+          "name": "Ball State Cardinals",
+          "primary": "186,12,47",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Ball State",
+          "mascot": "Cardinals"
+        },
+        {
+          "name": "Bowling Green Falcons",
+          "primary": "254,80,0",
+          "secondary": "79,44,29",
+          "tertiary": "205,160,119",
+          "prestige": 55,
+          "city": "Bowling Green",
+          "mascot": "Falcons"
+        },
+        {
+          "name": "Buffalo Bulls",
+          "primary": "0,91,187",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "Buffalo",
+          "mascot": "Bulls"
+        },
+        {
+          "name": "Central Michigan Chippewas",
+          "primary": "106,0,50",
+          "secondary": "255,200,46",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Central Michigan",
+          "mascot": "Chippewas"
+        },
+        {
+          "name": "Eastern Michigan Eagles",
+          "primary": "0,102,51",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Eastern Michigan",
+          "mascot": "Eagles"
+        },
+        {
+          "name": "Kent State Golden Flashes",
+          "primary": "0,38,100",
+          "secondary": "234,171,0",
+          "tertiary": "255,255,255",
+          "prestige": 50,
+          "city": "Kent State",
+          "mascot": "Golden Flashes"
+        },
+        {
+          "name": "Miami (OH) RedHawks",
+          "primary": "200,16,46",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 60,
+          "city": "Miami (OH)",
+          "mascot": "RedHawks"
+        },
+        {
+          "name": "Northern Illinois Huskies",
+          "primary": "227,27,35",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Northern Illinois",
+          "mascot": "Huskies"
+        },
+        {
+          "name": "Ohio Bobcats",
+          "primary": "0,93,92",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 60,
+          "city": "Ohio",
+          "mascot": "Bobcats"
+        },
+        {
+          "name": "Toledo Rockets",
+          "primary": "0,47,95",
+          "secondary": "247,181,0",
+          "tertiary": "255,255,255",
+          "prestige": 65,
+          "city": "Toledo",
+          "mascot": "Rockets"
+        },
+        {
+          "name": "Western Michigan Broncos",
+          "primary": "177,143,79",
+          "secondary": "142,108,44",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Western Michigan",
+          "mascot": "Broncos"
+        }
+      ]
+    },
+    {
+      "name": "Mountain West",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 70,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Air Force Falcons",
+          "primary": "0,48,135",
+          "secondary": "138,141,143",
+          "tertiary": "177,179,179",
+          "prestige": 70,
+          "city": "Air Force",
+          "mascot": "Falcons"
+        },
+        {
+          "name": "Boise State Broncos",
+          "primary": "214,67,9",
+          "secondary": "0,51,160",
+          "tertiary": "255,255,255",
+          "prestige": 75,
+          "city": "Boise State",
+          "mascot": "Broncos"
+        },
+        {
+          "name": "Colorado State Rams",
+          "primary": "30,77,43",
+          "secondary": "200,195,114",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Colorado State",
+          "mascot": "Rams"
+        },
+        {
+          "name": "Fresno State Bulldogs",
+          "primary": "219,0,50",
+          "secondary": "0,46,109",
+          "tertiary": "0,121,52",
+          "prestige": 70,
+          "city": "Fresno State",
+          "mascot": "Bulldogs"
+        },
+        {
+          "name": "Hawaii Rainbow Warriors",
+          "primary": "2,71,49",
+          "secondary": "200,200,200",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "Hawaii",
+          "mascot": "Rainbow Warriors"
+        },
+        {
+          "name": "Nevada Wolf Pack",
+          "primary": "0,51,102",
+          "secondary": "162,169,169",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Nevada Wolf",
+          "mascot": "Pack"
+        },
+        {
+          "name": "New Mexico Lobos",
+          "primary": "204,9,47",
+          "secondary": "169,177,183",
+          "tertiary": "255,255,255",
+          "prestige": 50,
+          "city": "New Mexico",
+          "mascot": "Lobos"
+        },
+        {
+          "name": "San Diego State Aztecs",
+          "primary": "166,25,46",
+          "secondary": "35,31,32",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "San Diego State",
+          "mascot": "Aztecs"
+        },
+        {
+          "name": "San Jose State Spartans",
+          "primary": "0,85,162",
+          "secondary": "234,194,33",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "San Jose State",
+          "mascot": "Spartans"
+        },
+        {
+          "name": "UNLV Rebels",
+          "primary": "186,12,47",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 65,
+          "city": "UNLV",
+          "mascot": "Rebels"
+        },
+        {
+          "name": "Utah State Aggies",
+          "primary": "0,79,102",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 65,
+          "city": "Utah State",
+          "mascot": "Aggies"
+        },
+        {
+          "name": "Wyoming Cowboys",
+          "primary": "85,44,26",
+          "secondary": "255,196,37",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Wyoming",
+          "mascot": "Cowboys"
+        }
+      ]
+    },
+    {
+      "name": "Sun Belt",
+      "requiredConferenceGames": 8,
+      "conferencePrestige": 65,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Appalachian State Mountaineers",
+          "primary": "34,34,34",
+          "secondary": "255,204,0",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "Appalachian State",
+          "mascot": "Mountaineers"
+        },
+        {
+          "name": "Arkansas State Red Wolves",
+          "primary": "204,9,47",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "Arkansas State",
+          "mascot": "Red Wolves"
+        },
+        {
+          "name": "Coastal Carolina Chanticleers",
+          "primary": "0,111,113",
+          "secondary": "162,119,82",
+          "tertiary": "17,17,17",
+          "prestige": 65,
+          "city": "Coastal Carolina",
+          "mascot": "Chanticleers"
+        },
+        {
+          "name": "Georgia Southern Eagles",
+          "primary": "1,30,65",
+          "secondary": "163,170,174",
+          "tertiary": "135,113,77",
+          "prestige": 60,
+          "city": "Georgia Southern",
+          "mascot": "Eagles"
+        },
+        {
+          "name": "Georgia State Panthers",
+          "primary": "0,57,166",
+          "secondary": "198,12,48",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "Georgia State",
+          "mascot": "Panthers"
+        },
+        {
+          "name": "James Madison Dukes",
+          "primary": "69,0,132",
+          "secondary": "203,182,119",
+          "tertiary": "255,255,255",
+          "prestige": 70,
+          "city": "James Madison",
+          "mascot": "Dukes"
+        },
+        {
+          "name": "Louisiana Ragin' Cajuns",
+          "primary": "206,24,30",
+          "secondary": "10,2,3",
+          "tertiary": "193,197,201",
+          "prestige": 65,
+          "city": "Louisiana",
+          "mascot": "Ragin' Cajuns"
+        },
+        {
+          "name": "Marshall Thundering Herd",
+          "primary": "0,177,64",
+          "secondary": "242,196,0",
+          "tertiary": "0,0,0",
+          "prestige": 65,
+          "city": "Marshall",
+          "mascot": "Thundering Herd"
+        },
+        {
+          "name": "Old Dominion Monarchs",
+          "primary": "0,58,112",
+          "secondary": "166,214,240",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Old Dominion",
+          "mascot": "Monarchs"
+        },
+        {
+          "name": "South Alabama Jaguars",
+          "primary": "166,25,46",
+          "secondary": "0,40,92",
+          "tertiary": "255,255,255",
+          "prestige": 60,
+          "city": "South Alabama",
+          "mascot": "Jaguars"
+        },
+        {
+          "name": "Southern Miss Golden Eagles",
+          "primary": "253,187,48",
+          "secondary": "0,0,0",
+          "tertiary": "255,255,255",
+          "prestige": 55,
+          "city": "Southern Miss",
+          "mascot": "Golden Eagles"
+        },
+        {
+          "name": "Texas State Bobcats",
+          "primary": "80,18,20",
+          "secondary": "255,196,37",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "Texas State",
+          "mascot": "Bobcats"
+        },
+        {
+          "name": "Troy Trojans",
+          "primary": "141,0,57",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 70,
+          "city": "Troy",
+          "mascot": "Trojans"
+        },
+        {
+          "name": "UL Monroe Warhawks",
+          "primary": "105,12,40",
+          "secondary": "201,164,0",
+          "tertiary": "255,255,255",
+          "prestige": 50,
+          "city": "UL Monroe",
+          "mascot": "Warhawks"
+        }
+      ]
+    },
+    {
+      "name": "Independents",
+      "requiredConferenceGames": 0,
+      "conferencePrestige": 70,
+      "isPower5": false,
+      "teams": [
+        {
+          "name": "Massachusetts Minutemen",
+          "primary": "151,27,47",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 50,
+          "city": "Massachusetts",
+          "mascot": "Minutemen"
+        },
+        {
+          "name": "Notre Dame Fighting Irish",
+          "primary": "12,35,64",
+          "secondary": "174,145,66",
+          "tertiary": "201,151,0",
+          "prestige": 90,
+          "city": "Notre Dame",
+          "mascot": "Fighting Irish"
+        },
+        {
+          "name": "UConn Huskies",
+          "primary": "13,37,76",
+          "secondary": "255,255,255",
+          "tertiary": "0,0,0",
+          "prestige": 55,
+          "city": "UConn",
+          "mascot": "Huskies"
+        }
+      ]
+    }
+  ],
+  "bowls": [
+    "Salute to Veterans Bowl",
+    "Frisco Bowl",
+    "Boca Raton Bowl",
+    "LA Bowl",
+    "New Orleans Bowl",
+    "Cure Bowl",
+    "Gasparilla Bowl",
+    "Myrtle Beach Bowl",
+    "Famous Idaho Potato Bowl",
+    "Hawaii Bowl",
+    "GameAbove Sports Bowl",
+    "Rate Bowl",
+    "68 Ventures Bowl",
+    "Armed Forces Bowl",
+    "Birmingham Bowl",
+    "Liberty Bowl",
+    "Holiday Bowl",
+    "Las Vegas Bowl",
+    "Fenway Bowl",
+    "Pinstripe Bowl",
+    "New Mexico Bowl",
+    "Pop-Tarts Bowl",
+    "Arizona Bowl",
+    "Military Bowl",
+    "Alamo Bowl",
+    "Independence Bowl",
+    "Music City Bowl",
+    "ReliaQuest Bowl",
+    "Sun Bowl",
+    "Citrus Bowl",
+    "Texas Bowl",
+    "Gator Bowl",
+    "First Responder Bowl",
+    "Duke's Mayo Bowl",
+    "Bahamas Bowl"
+  ],
+  "ny6Bowls": [
+    "Rose Bowl",
+    "Sugar Bowl",
+    "Orange Bowl",
+    "Cotton Bowl",
+    "Fiesta Bowl",
+    "Peach Bowl"
+  ],
+  "rivalries": [
+    {
+      "teamA": "Alabama Crimson Tide",
+      "teamB": "Auburn Tigers"
+    },
+    {
+      "teamA": "Alabama Crimson Tide",
+      "teamB": "Tennessee Volunteers"
+    },
+    {
+      "teamA": "Alabama Crimson Tide",
+      "teamB": "LSU Tigers"
+    },
+    {
+      "teamA": "Auburn Tigers",
+      "teamB": "Georgia Bulldogs"
+    },
+    {
+      "teamA": "Florida Gators",
+      "teamB": "Georgia Bulldogs"
+    },
+    {
+      "teamA": "Florida Gators",
+      "teamB": "Florida State Seminoles"
+    },
+    {
+      "teamA": "Florida Gators",
+      "teamB": "Tennessee Volunteers"
+    },
+    {
+      "teamA": "Georgia Tech Yellow Jackets",
+      "teamB": "Georgia Bulldogs"
+    },
+    {
+      "teamA": "Kentucky Wildcats",
+      "teamB": "Louisville Cardinals"
+    },
+    {
+      "teamA": "LSU Tigers",
+      "teamB": "Texas A&M Aggies"
+    },
+    {
+      "teamA": "Mississippi State Bulldogs",
+      "teamB": "Ole Miss Rebels"
+    },
+    {
+      "teamA": "South Carolina Gamecocks",
+      "teamB": "Clemson Tigers"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "Texas A&M Aggies"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "Oklahoma Sooners"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "Texas Tech Red Raiders"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "Oklahoma State Cowboys"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "Arkansas Razorbacks"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "Baylor Bears"
+    },
+    {
+      "teamA": "Texas Longhorns",
+      "teamB": "TCU Horned Frogs"
+    },
+    {
+      "teamA": "Texas A&M Aggies",
+      "teamB": "Arkansas Razorbacks"
+    },
+    {
+      "teamA": "Michigan Wolverines",
+      "teamB": "Ohio State Buckeyes"
+    },
+    {
+      "teamA": "Michigan Wolverines",
+      "teamB": "Michigan State Spartans"
+    },
+    {
+      "teamA": "Michigan Wolverines",
+      "teamB": "Notre Dame Fighting Irish"
+    },
+    {
+      "teamA": "Michigan State Spartans",
+      "teamB": "Notre Dame Fighting Irish"
+    },
+    {
+      "teamA": "Minnesota Golden Gophers",
+      "teamB": "Wisconsin Badgers"
+    },
+    {
+      "teamA": "Minnesota Golden Gophers",
+      "teamB": "Iowa Hawkeyes"
+    },
+    {
+      "teamA": "Iowa Hawkeyes",
+      "teamB": "Iowa State Cyclones"
+    },
+    {
+      "teamA": "Illinois Fighting Illini",
+      "teamB": "Northwestern Wildcats"
+    },
+    {
+      "teamA": "Indiana Hoosiers",
+      "teamB": "Purdue Boilermakers"
+    },
+    {
+      "teamA": "Nebraska Cornhuskers",
+      "teamB": "Iowa Hawkeyes"
+    },
+    {
+      "teamA": "Nebraska Cornhuskers",
+      "teamB": "Oklahoma Sooners"
+    },
+    {
+      "teamA": "Ohio State Buckeyes",
+      "teamB": "Penn State Nittany Lions"
+    },
+    {
+      "teamA": "Oregon Ducks",
+      "teamB": "Oregon State Beavers"
+    },
+    {
+      "teamA": "Oregon Ducks",
+      "teamB": "Washington Huskies"
+    },
+    {
+      "teamA": "Washington Huskies",
+      "teamB": "Washington State Cougars"
+    },
+    {
+      "teamA": "USC Trojans",
+      "teamB": "UCLA Bruins"
+    },
+    {
+      "teamA": "USC Trojans",
+      "teamB": "Notre Dame Fighting Irish"
+    },
+    {
+      "teamA": "UCLA Bruins",
+      "teamB": "California Golden Bears"
+    },
+    {
+      "teamA": "Penn State Nittany Lions",
+      "teamB": "Pittsburgh Panthers"
+    },
+    {
+      "teamA": "Rutgers Scarlet Knights",
+      "teamB": "Maryland Terrapins"
+    },
+    {
+      "teamA": "Arizona Wildcats",
+      "teamB": "Arizona State Sun Devils"
+    },
+    {
+      "teamA": "BYU Cougars",
+      "teamB": "Utah Utes"
+    },
+    {
+      "teamA": "BYU Cougars",
+      "teamB": "Utah State Aggies"
+    },
+    {
+      "teamA": "Baylor Bears",
+      "teamB": "TCU Horned Frogs"
+    },
+    {
+      "teamA": "Kansas Jayhawks",
+      "teamB": "Kansas State Wildcats"
+    },
+    {
+      "teamA": "Oklahoma State Cowboys",
+      "teamB": "Oklahoma Sooners"
+    },
+    {
+      "teamA": "Cincinnati Bearcats",
+      "teamB": "Miami (OH) RedHawks"
+    },
+    {
+      "teamA": "Cincinnati Bearcats",
+      "teamB": "Louisville Cardinals"
+    },
+    {
+      "teamA": "Colorado Buffaloes",
+      "teamB": "Colorado State Rams"
+    },
+    {
+      "teamA": "Houston Cougars",
+      "teamB": "Rice Owls"
+    },
+    {
+      "teamA": "Kansas State Wildcats",
+      "teamB": "Iowa State Cyclones"
+    },
+    {
+      "teamA": "TCU Horned Frogs",
+      "teamB": "SMU Mustangs"
+    },
+    {
+      "teamA": "UCF Knights",
+      "teamB": "South Florida Bulls"
+    },
+    {
+      "teamA": "Utah Utes",
+      "teamB": "Colorado Buffaloes"
+    },
+    {
+      "teamA": "West Virginia Mountaineers",
+      "teamB": "Pittsburgh Panthers"
+    },
+    {
+      "teamA": "Army Black Knights",
+      "teamB": "Navy Midshipmen"
+    },
+    {
+      "teamA": "Army Black Knights",
+      "teamB": "Air Force Falcons"
+    },
+    {
+      "teamA": "Navy Midshipmen",
+      "teamB": "Air Force Falcons"
+    },
+    {
+      "teamA": "Charlotte 49ers",
+      "teamB": "North Carolina Tar Heels"
+    },
+    {
+      "teamA": "East Carolina Pirates",
+      "teamB": "NC State Wolfpack"
+    },
+    {
+      "teamA": "Florida Atlantic Owls",
+      "teamB": "Florida International Panthers"
+    },
+    {
+      "teamA": "Memphis Tigers",
+      "teamB": "UTSA Roadrunners"
+    },
+    {
+      "teamA": "Rice Owls",
+      "teamB": "North Texas Mean Green"
+    },
+    {
+      "teamA": "Tulane Green Wave",
+      "teamB": "Tulsa Golden Hurricane"
+    },
+    {
+      "teamA": "UAB Blazers",
+      "teamB": "Memphis Tigers"
+    },
+    {
+      "teamA": "UTSA Roadrunners",
+      "teamB": "North Texas Mean Green"
+    },
+    {
+      "teamA": "Jacksonville State Gamecocks",
+      "teamB": "Kennesaw State Owls"
+    },
+    {
+      "teamA": "Liberty Flames",
+      "teamB": "Old Dominion Monarchs"
+    },
+    {
+      "teamA": "Louisiana Tech Bulldogs",
+      "teamB": "Southern Miss Golden Eagles"
+    },
+    {
+      "teamA": "Middle Tennessee Blue Raiders",
+      "teamB": "Western Kentucky Hilltoppers"
+    },
+    {
+      "teamA": "New Mexico State Aggies",
+      "teamB": "UTEP Miners"
+    },
+    {
+      "teamA": "Sam Houston Bearkats",
+      "teamB": "Texas State Bobcats"
+    },
+    {
+      "teamA": "Akron Zips",
+      "teamB": "Kent State Golden Flashes"
+    },
+    {
+      "teamA": "Ball State Cardinals",
+      "teamB": "Northern Illinois Huskies"
+    },
+    {
+      "teamA": "Bowling Green Falcons",
+      "teamB": "Toledo Rockets"
+    },
+    {
+      "teamA": "Buffalo Bulls",
+      "teamB": "Bowling Green Falcons"
+    },
+    {
+      "teamA": "Central Michigan Chippewas",
+      "teamB": "Western Michigan Broncos"
+    },
+    {
+      "teamA": "Eastern Michigan Eagles",
+      "teamB": "Western Michigan Broncos"
+    },
+    {
+      "teamA": "Miami (OH) RedHawks",
+      "teamB": "Ohio Bobcats"
+    },
+    {
+      "teamA": "Ohio Bobcats",
+      "teamB": "Marshall Thundering Herd"
+    },
+    {
+      "teamA": "Air Force Falcons",
+      "teamB": "Colorado State Rams"
+    },
+    {
+      "teamA": "Boise State Broncos",
+      "teamB": "Fresno State Bulldogs"
+    },
+    {
+      "teamA": "Boise State Broncos",
+      "teamB": "Nevada Wolf Pack"
+    },
+    {
+      "teamA": "Colorado State Rams",
+      "teamB": "Wyoming Cowboys"
+    },
+    {
+      "teamA": "New Mexico Lobos",
+      "teamB": "New Mexico State Aggies"
+    },
+    {
+      "teamA": "San Diego State Aztecs",
+      "teamB": "Fresno State Bulldogs"
+    },
+    {
+      "teamA": "San Jose State Spartans",
+      "teamB": "Fresno State Bulldogs"
+    },
+    {
+      "teamA": "UNLV Rebels",
+      "teamB": "Nevada Wolf Pack"
+    },
+    {
+      "teamA": "Wyoming Cowboys",
+      "teamB": "Utah State Aggies"
+    },
+    {
+      "teamA": "Appalachian State Mountaineers",
+      "teamB": "Georgia Southern Eagles"
+    },
+    {
+      "teamA": "Arkansas State Red Wolves",
+      "teamB": "Memphis Tigers"
+    },
+    {
+      "teamA": "Coastal Carolina Chanticleers",
+      "teamB": "Appalachian State Mountaineers"
+    },
+    {
+      "teamA": "Georgia Southern Eagles",
+      "teamB": "Georgia State Panthers"
+    },
+    {
+      "teamA": "Georgia State Panthers",
+      "teamB": "James Madison Dukes"
+    },
+    {
+      "teamA": "James Madison Dukes",
+      "teamB": "Old Dominion Monarchs"
+    },
+    {
+      "teamA": "Louisiana Ragin' Cajuns",
+      "teamB": "UL Monroe Warhawks"
+    },
+    {
+      "teamA": "Marshall Thundering Herd",
+      "teamB": "West Virginia Mountaineers"
+    },
+    {
+      "teamA": "South Alabama Jaguars",
+      "teamB": "Troy Trojans"
+    },
+    {
+      "teamA": "Texas State Bobcats",
+      "teamB": "UTSA Roadrunners"
+    },
+    {
+      "teamA": "Troy Trojans",
+      "teamB": "UAB Blazers"
+    },
+    {
+      "teamA": "Notre Dame Fighting Irish",
+      "teamB": "Stanford Cardinal"
+    },
+    {
+      "teamA": "Notre Dame Fighting Irish",
+      "teamB": "Navy Midshipmen"
+    },
+    {
+      "teamA": "Notre Dame Fighting Irish",
+      "teamB": "Boston College Eagles"
+    },
+    {
+      "teamA": "Massachusetts Minutemen",
+      "teamB": "Boston College Eagles"
+    },
+    {
+      "teamA": "BYU Cougars",
+      "teamB": "Notre Dame Fighting Irish"
+    }
+  ]
+}
